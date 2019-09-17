@@ -1,0 +1,23 @@
+core: 8.x
+type: theme
+base theme: bartik
+
+name: 'Paradoxpro Subtheme'
+description: 'Makes things look nice.'
+package: 'Bartik'
+
+regions:
+  primary_menu: 'Primary Menu'
+  header: 'Top Bar'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+
+libraries:
+  - 'paradoxpro_subtheme/global-styling'

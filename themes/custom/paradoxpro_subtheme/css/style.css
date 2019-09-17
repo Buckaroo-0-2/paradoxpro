@@ -1,0 +1,20 @@
+.views-row {
+  border: 1px solid grey;
+  border-radius: 8px;
+  padding: 0 20px 10px;
+  margin-bottom: 12px;
+}
+
+.form--inline .form-actions {
+  clear: none;
+  padding-top: 30px;
+}
+
+.views-field-title {
+  margin-bottom: 8px;
+}
+
+a:hover {
+  text-decoration: none;
+  border-bottom-style: unset;
+}
