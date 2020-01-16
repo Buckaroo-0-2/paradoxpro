@@ -24,6 +24,7 @@
         "drupal/honeypot": "^1.29",
         "drupal/memcache": "^2.0",
         "drupal/metatag": "^1.8",
+        "drupal/redirect": "^1.5",
         "drupal/simple_sitemap": "^3.3",
         "drupal/sitemap": "^1.5",
         "drush/drush": "^9.7"
